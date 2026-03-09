@@ -1,0 +1,20 @@
+carbon_api/
+│
+├── app/
+│   ├── main.py
+│   ├── schemas.py
+│   ├── auth.py
+│   ├── services.py
+│   ├── config.py
+│   └── logger.py
+│
+├── data/
+│   ├── curated_scope_wide.csv
+│   └── forecast_output.csv
+│
+├── tests/
+│   └── test_api.py
+│
+├── requirements.txt
+└── Dockerfile
+
